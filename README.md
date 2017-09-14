@@ -12,8 +12,8 @@ $ ./bin/tetris
 ```
   
 ## Technical Details
-```
 Source file tree:
+```
     Tetris
     |
     |--include
